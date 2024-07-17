@@ -1,6 +1,6 @@
 # Using GitHub Actions + FastLane to deploy to TestFlight
 
-These instructions allow you to build Loop without having access to a Mac. xxxxx
+These instructions allow you to build Loop without having access to a Mac.
 
 * You can install Loop on phones via TestFlight that are not connected to your computer
 * You can send builds and updates to those you care for
